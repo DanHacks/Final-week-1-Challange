@@ -19,3 +19,4 @@ function speedDetector(speed) {
 console.log(speedDetector(55)); // Output: Ok
 console.log(speedDetector(85)); // Output: Points: 1
 console.log(speedDetector(120)); // Output: License suspended
+

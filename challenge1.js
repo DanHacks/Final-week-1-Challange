@@ -26,4 +26,5 @@
     console.log(gradeCalculator(85)); // Output: Grade: A
     console.log(gradeCalculator(55)); // Output: Grade: C
     console.log(gradeCalculator(30)); // Output: Grade: E
+    
        

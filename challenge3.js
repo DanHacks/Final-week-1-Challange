@@ -43,3 +43,4 @@ function netSalaryCalculator(basicSalary, benefits) {
 }
 
     console.log(netSalaryCalculator(55000, 10000));
+    
